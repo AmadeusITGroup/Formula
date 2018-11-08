@@ -1,0 +1,6 @@
+export BOOST_INCLUDES=/projects/mwdeldev/Boost/15-0-0-12/include/
+export GMOCK_INCLUDES=/projects/mwdeldev/Gmock/15-0-0-3/include/
+export GTEST_INCLUDES=/projects/mwdeldev/Gtest/15-0-0-4/include/
+export COMPILER=/opt/1A/toolchain/x86_64-2.6.32-v2/bin/g++
+export LINKER=/opt/1A/toolchain/x86_64-2.6.32-v2/bin/ld
+
